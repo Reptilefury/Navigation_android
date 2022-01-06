@@ -1,0 +1,8 @@
+com/reptilefury/navigation/databinding/FragmentLoginBinding.java
+ com.reptilefury.navigation.databinding.FragmentLoginBinding
+com/reptilefury/navigation/databinding/ActivityMainBinding.java
+ com.reptilefury.navigation.databinding.ActivityMainBinding
+com/reptilefury/navigation/databinding/FragmentHomeBinding.java
+ com.reptilefury.navigation.databinding.FragmentHomeBinding
+com/reptilefury/navigation/BuildConfig.java
+ com.reptilefury.navigation.BuildConfig

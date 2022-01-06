@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/reptilefury/StudioProjects/navigation/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/reptilefury/StudioProjects/navigation/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/navigation/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/home/reptilefury/StudioProjects/navigation/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/navigation/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_login.xml",
+        "source": "/home/reptilefury/StudioProjects/navigation/app/src/main/res/layout/fragment_login.xml"
+    }
+]
