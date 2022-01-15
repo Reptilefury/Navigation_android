@@ -6,7 +6,6 @@
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".HomeFragment">
-
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="wrap_content"
@@ -29,8 +28,5 @@
         android:text="@string/test"
         android:id="@+id/Test_Button"
         >
-
-
     </Button>
-
 </LinearLayout>
